@@ -1,0 +1,10 @@
+C:\Users\ipek\Desktop\projeninyeni hali\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.exe.config
+C:\Users\ipek\Desktop\projeninyeni hali\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.exe
+C:\Users\ipek\Desktop\projeninyeni hali\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.pdb
+C:\Users\ipek\Desktop\projeninyeni hali\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.AssemblyReference.cache
+C:\Users\ipek\Desktop\projeninyeni hali\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Form1.resources
+C:\Users\ipek\Desktop\projeninyeni hali\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Properties.Resources.resources
+C:\Users\ipek\Desktop\projeninyeni hali\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.GenerateResource.cache
+C:\Users\ipek\Desktop\projeninyeni hali\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\ipek\Desktop\projeninyeni hali\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.exe
+C:\Users\ipek\Desktop\projeninyeni hali\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.pdb
